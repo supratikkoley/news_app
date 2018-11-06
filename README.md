@@ -1,9 +1,10 @@
-# news_app
+### News App
 
 A new Flutter application.
 
 It is a ordinary news app with live news. This app is fetching news from a api in the form of Json.
 
+## Screenshots
 
 
 ## Getting Started
