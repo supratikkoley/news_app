@@ -6,7 +6,7 @@ It is a ordinary news app with live news. This app is fetching news from a api i
 
 ## Screenshots
 
-<img src="news_app_1[1].png" height="500em" />   <img src="news_app_2[1].png" height="500em" />
+<img src="news_app_`1[1].png" height="500em" />   <img src="news_app_2[1].png" height="500em" />
 
 ## Getting Started
 
