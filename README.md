@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-It is a ordinary news app with live news. This app is fetching news from a api in the form of Json.
+It is an ordinary news app with live news. This app is fetching news from a api in the form of Json.
 
 ## usage
 In main.dart, please use your own api key to run the app.(in urls change "api-key" with your own api-key which you can find in newsapi.org).
