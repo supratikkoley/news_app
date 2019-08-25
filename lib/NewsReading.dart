@@ -20,7 +20,6 @@ class NewsReadingState extends State<NewsReading> {
     return WebviewScaffold(
       appBar: AppBar(title: Text(widget.arts.title),backgroundColor: Colors.blue,),
       url: widget.arts.url,
-
     );
   }
 }
