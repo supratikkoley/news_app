@@ -16,19 +16,19 @@ class _NewsAppState extends State<NewsApp> with SingleTickerProviderStateMixin {
   TabController _tabcontrol;
 
   String techUrl  =
-      "https://newsapi.org/v2/top-headlines?country=in&query=technology&category=technology&pageSize=100&apiKey=f10ff2dc6015435488deae959371f83a";
+      "https://newsapi.org/v2/top-headlines?country=in&query=technology&category=technology&pageSize=100&apiKey= api-key";
   String businessUrl =
-      "https://newsapi.org/v2/top-headlines?country=in&query=business&category=business&pageSize=100&apiKey=f10ff2dc6015435488deae959371f83a";
+      "https://newsapi.org/v2/top-headlines?country=in&query=business&category=business&pageSize=100&apiKey= api-key";
   String entertainmentUrl =
-      "https://newsapi.org/v2/top-headlines?country=in&category=entertainment&pageSize=100&apiKey=f10ff2dc6015435488deae959371f83a";
+      "https://newsapi.org/v2/top-headlines?country=in&category=entertainment&pageSize=100&apiKey= api-key";
   String IndiaUrl =
-      "https://newsapi.org/v2/top-headlines?country=in&query=india&category=general&pageSize=100&apiKey=f10ff2dc6015435488deae959371f83a";
+      "https://newsapi.org/v2/top-headlines?country=in&query=india&category=general&pageSize=100&apiKey= api-key";
   String worldUrl =
-      "https://newsapi.org/v2/top-headlines?country=us&country=in&query=world&pageSize=100&apiKey=f10ff2dc6015435488deae959371f83a";
+      "https://newsapi.org/v2/top-headlines?country=us&country=in&query=world&pageSize=100&apiKey= api-key";
   String scienceUrl =
-      "https://newsapi.org/v2/top-headlines?country=in&query=science&category=science&pageSize=100&apiKey=f10ff2dc6015435488deae959371f83a";
+      "https://newsapi.org/v2/top-headlines?country=in&query=science&category=science&pageSize=100&apiKey= api-key";
   String sportsUrl =
-      "https://newsapi.org/v2/top-headlines?country=in&query=sports&category=sports&apiKey=f10ff2dc6015435488deae959371f83a";
+      "https://newsapi.org/v2/top-headlines?country=in&query=sports&category=sports&apiKey=api-key";
 
   @override
   void initState() {
